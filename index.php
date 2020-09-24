@@ -2,7 +2,7 @@
   
   <head>Canary Example</head>
 
-  <?php> 
+  <?php 
 
   $number = 0;
 
