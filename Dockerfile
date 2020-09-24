@@ -6,3 +6,4 @@ RUN rm /var/www/html/index.html
 RUN mkdir /var/www/html/images
 ADD index.php /var/www/html
 EXPOSE 80
+CMD /usr/sbin/apache2ctl -D FOREGROUND
