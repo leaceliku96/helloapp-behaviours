@@ -2,7 +2,7 @@
   
   <head>Canary Example</head>
 
-  <?php> 
+  <?php
 
   for ($count = 0; $count <= 1000; $count++){
   
