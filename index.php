@@ -11,6 +11,8 @@
       for ($count = 0; $count <= 1000000; $count++){
   
       $number++;
+      $result = pow($count, $count);
+      $result = pow($count, $count);
 
       }
 
